@@ -1,0 +1,17 @@
+Package               Version
+--------------------- -------
+-ip                   20.1.1
+asgiref               3.4.1
+cffi                  1.15.0
+cryptography          35.0.0
+Django                3.2.9
+django-password-reset 2.0
+Markdown              3.3.4
+Pillow                8.4.0
+pip                   20.1.1
+pycparser             2.21
+Pygments              2.10.0
+PyMySQL               1.0.2
+pytz                  2021.3
+setuptools            47.1.0
+sqlparse              0.4.2
