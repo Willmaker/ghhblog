@@ -81,7 +81,7 @@ WSGI_APPLICATION = 'ghhblog.wsgi.application'
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.mysql',    # 数据库引擎
-        'NAME': 'mydb1105', # 数据库名称
+        'NAME': 'mydb1114', # 数据库名称
         'HOST': '127.0.0.1', # 数据库地址，本机 ip 地址 127.0.0.1
         'PORT': 3306, # 端口
         'USER': 'root',  # 数据库用户名
